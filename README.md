@@ -31,13 +31,13 @@ Ayn Rand
 
 ### [Part II: EITHER-OR](Part_II/README.md)
 
-#### [Chapter I THE MAN WHO BELONGED ON EARTH]()
+#### [Chapter I THE MAN WHO BELONGED ON EARTH](Part_II/Chapter_01.md)
 
-#### [Chapter II THE ARISTOCRACY OF PULL]()
+#### [Chapter II THE ARISTOCRACY OF PULL](Part_II/Chapter_02.md)
 
-#### [Chapter III WHITE BLACKMAIL]()
+#### [Chapter III WHITE BLACKMAIL](Part_II/Chapter_03.md)
 
-#### [Chapter IV THE SANCTION OF THE VICTIM]()
+#### [Chapter IV THE SANCTION OF THE VICTIM](Part_II/Chapter_04.md)
 
 #### [Chapter V ACCOUNT OVERDRAWN]()
 
