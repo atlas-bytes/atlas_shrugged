@@ -195,10 +195,12 @@ moving, a tall, emaciated man with graying hair. He did not bow, did not smile; 
 looking at the crowd. His face had the quiet, earnest look of a man staring at a question.
 
 "The music of Richard Halley," wrote a critic next morning, "belongs to mankind. It is the product and
-the expression of the greatness of the people." "There is an inspiring lesson," said a minister, "in the life of
-Richard Halley. He has had a terrible struggle, but what does that matter? It is proper, it is noble that he
-should have endured suffering, injustice, abuse at the hands of his brothers—in order to enrich their lives
-and teach them to appreciate the beauty of great music."
+the expression of the greatness of the people."
+
+"There is an inspiring lesson," said a minister, "in the life of Richard Halley. He has had a terrible
+struggle, but what does that matter? It is proper, it is noble that he should have endured suffering,
+injustice, abuse at the hands of his brothers—in order to enrich their lives and teach them to appreciate
+the beauty of great music."
 
 On the day after the opening, Richard Halley retired.
 

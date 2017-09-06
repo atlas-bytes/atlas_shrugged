@@ -119,12 +119,18 @@ He thought of a summer day when he was ten years old. That day, in a clearing of
 precious companion of his childhood told him what they would do when they grew up. The words were
 harsh and glowing, like the sunlight. He listened in admiration and in wonder. When he was asked what
 he would want to do, he answered at once, "Whatever is right," and added, "You ought to do something
-great . . . I mean, the two of us together." "What?" she asked. He said, "I don't know. That's what we
-ought to find out. Not just what you said. Not just business and earning a living. Things like winning
-battles, or saving people out of fires, or climbing mountains." "What for?" she asked. He said, "The
-minister said last Sunday that we must always reach for the best within us. What do you suppose is the
-best within us?" "I don't know." "We'll have to find out." She did not answer; she was looking away, up
-the railroad track.
+great . . . I mean, the two of us together."
+
+"What?" she asked. He said, "I don't know. That's what we ought to find out. Not just what you said.
+Not just business and earning a living. Things like winning battles, or saving people out of fires,
+or climbing mountains."
+
+"What for?" she asked. He said, "The minister said last Sunday that we must always reach for the best
+within us. What do you suppose is the best within us?"
+
+"I don't know."
+ 
+"We'll have to find out." She did not answer; she was looking away, up the railroad track.
 
 Eddie Willers smiled. He had said, "Whatever is right," twenty-two years ago. He had kept that
 statement unchallenged ever since; the other questions had faded in his mind; he had been too busy to

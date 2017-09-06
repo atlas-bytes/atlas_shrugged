@@ -472,8 +472,9 @@ the San Sebastian Mines. Few facts were available; the information which d'Ancon
 not very specific; but they did not seem to need facts.
 
 They spoke at great length about the poverty of the Mexicans and their desperate need of railroads,
-"They've never had a chance." "It is our duty to help an underprivileged nation to develop. A country, it
-seems to me, is its neighbors' keeper."
+"They've never had a chance."
+
+"It is our duty to help an underprivileged nation to develop. A country, it seems to me, is its neighbors' keeper."
 
 She sat, listening, and she thought of the many branch lines which Taggart Transcontinental had had to
 abandon; the revenues of the great railroad had been falling slowly for many years. She thought of the
@@ -483,7 +484,9 @@ Their policy on the problem of maintenance was not a policy but a game they seem
 a piece of rubber that could be stretched a little, then a little more.
 
 "The Mexicans, it seems to me, are a very diligent people, crushed by their primitive economy. How can
-they become industrialized if nobody lends them a hand?" "When considering an investment, we should,
+they become industrialized if nobody lends them a hand?"
+
+"When considering an investment, we should,
 in my opinion, take a chance on human beings, rather than on purely material factors."
 
 She thought of an engine that lay in a ditch beside the Rio Norte Line, because a splice bar had cracked.
@@ -551,8 +554,9 @@ loathing for the hours, the days, the nights she had to waste circumventing the 
 who bore the title of Vice-President in Charge of Operation. The man had no policy, and any decision he
 made was always hers, but he made it only after he had made every effort to make it impossible. What
 she delivered to her brother was an ultimatum. He gasped, "But, Dagny, you're a woman! A woman as
-Operating Vice-President? It's unheard of! The Board won't consider it!" "Then I'm through," she
-answered.
+Operating Vice-President? It's unheard of! The Board won't consider it!"
+
+"Then I'm through," she answered.
 
 She did not think of what she would do with the rest of her life. To face leaving Taggart Transcontinental
 was like waiting to have her legs amputated; she thought she would let it happen, then take up the load of
