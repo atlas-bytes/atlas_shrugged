@@ -6,73 +6,39 @@ Atlas Shrugged
 Ayn Rand
 
 ## Table of Contents
-
 ### [Part I: Non-contradiction](Part_I/README.md)
-
 #### [Chapter I The Theme](Part_I/Chapter_01.md)
-
 #### [Chapter II The Chain](Part_I/Chapter_02.md)
-
 #### [Chapter III THE TOP AND THE BOTTOM](Part_I/Chapter_03.md)
-
 #### [Chapter IV THE IMMOVABLE MOVERS](Part_I/Chapter_04.md)
-
 #### [Chapter V THE CLIMAX OF THE D'ANCONIAS](Part_I/Chapter_05.md)
-
 #### [Chapter VI THE NON-COMMERCIAL](Part_I/Chapter_06.md)
-
 #### [Chapter VII THE EXPLOITERS AND THE EXPLOITED](Part_I/Chapter_07.md)
-
 #### [Chapter VIII THE JOHN GALT LINE](Part_I/Chapter_08.md)
-
 #### [Chapter IX THE SACRED AND THE PROFANE](Part_I/Chapter_09.md)
-
 #### [Chapter X WYATT'S TORCH](Part_I/Chapter_10.md)
-
 ### [Part II: EITHER-OR](Part_II/README.md)
-
 #### [Chapter I THE MAN WHO BELONGED ON EARTH](Part_II/Chapter_01.md)
-
 #### [Chapter II THE ARISTOCRACY OF PULL](Part_II/Chapter_02.md)
-
 #### [Chapter III WHITE BLACKMAIL](Part_II/Chapter_03.md)
-
 #### [Chapter IV THE SANCTION OF THE VICTIM](Part_II/Chapter_04.md)
-
-#### [Chapter V ACCOUNT OVERDRAWN]()
-
-#### [Chapter VI MIRACLE METAL]()
-
-#### [Chapter VII THE MORATORIUM ON BRAINS]()
-
-#### [Chapter VIII BY OUR LOVE]()
-
-#### [Chapter IX THE FACE WITHOUT PAIN OR FEAR OR GUILT]()
-
-#### [Chapter X THE SIGN OF THE DOLLAR]()
-
+#### [Chapter V ACCOUNT OVERDRAWN](Part_II/Chapter_05.md)
+#### [Chapter VI MIRACLE METAL](Part_II/Chapter_06.md)
+#### [Chapter VII THE MORATORIUM ON BRAINS](Part_II/Chapter_07.md)
+#### [Chapter VIII BY OUR LOVE](Part_II/Chapter_08.md)
+#### [Chapter IX THE FACE WITHOUT PAIN OR FEAR OR GUILT](Part_II/Chapter_09.md)
+#### [Chapter X THE SIGN OF THE DOLLAR](Part_II/Chapter_10.md)
 ### [PART III: A is A](Part_III/README.md)
-
-#### [Chapter I ATLANTIS]()
-
-#### [Chapter II THE UTOPIA OF GREED]()
-
-#### [Chapter III ANTI-GREED]()
-
-#### [Chapter IV ANTI-LIFE]()
-
-#### [Chapter V THEIR BROTHERS' KEEPERS]()
-
-#### [Chapter VI THE CONCERTO OF DELIVERANCE]()
-
-#### [Chapter VII "THIS IS JOHN GALT SPEAKING"]()
-
-#### [Chapter VIII THE EGOIST]()
-
-#### [Chapter IX THE GENERATOR]()
-
-#### [Chapter X IN THE NAME OF THE BEST AMONG US]()
-
+#### [Chapter I ATLANTIS](Part_III/Chapter_01.md)
+#### [Chapter II THE UTOPIA OF GREED](Part_III/Chapter_02.md)
+#### [Chapter III ANTI-GREED](Part_III/Chapter_03.md)
+#### [Chapter IV ANTI-LIFE](Part_III/Chapter_04.md)
+#### [Chapter V THEIR BROTHERS' KEEPERS](Part_III/Chapter_05.md)
+#### [Chapter VI THE CONCERTO OF DELIVERANCE](Part_III/Chapter_06.md)
+#### [Chapter VII "THIS IS JOHN GALT SPEAKING"](Part_III/Chapter_07.md)
+#### [Chapter VIII THE EGOIST](Part_III/Chapter_08.md)
+#### [Chapter IX THE GENERATOR](Part_III/Chapter_09.md)
+#### [Chapter X IN THE NAME OF THE BEST AMONG US](Part_III/Chapter_10.md)
 ### ABOUT THE AUTHOR
 "My personal life," says Ayn Rand, "is a postscript to my novels; it consists of the sentence: 'And I mean
 it.' I have always lived by the philosophy I present in my books— and it has worked for me, as it works
