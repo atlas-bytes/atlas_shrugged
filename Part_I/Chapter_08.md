@@ -1,17 +1,17 @@
-CHAPTER VIII
+Chapter VIII
 
-THE JOHN GALT LINE
+The John Galt Line
 
 The worker smiled, looking at Eddie Willers across the table.
-"I feel like a fugitive," said Eddie Willers. 'I guess you know why I haven't been here for months?" He
+
+"I feel like a fugitive," said Eddie Willers. "I guess you know why I haven't been here for months?" He
 pointed at the underground cafeteria.
+
 "I'm supposed to be a vice-president now. The Vice-President in Charge of Operation. For God's sake,
 don't take it seriously. I stood it as long as I could, and then I had to escape, if only for one evening. . . .
+
 The first time I came down here for dinner, after my alleged promotion, they all stared at me so much, I
-didn't dare come back. Well, let them stare.
-You don't. I'm glad that it doesn't make any difference to you. . . .
-
-
+didn't dare come back. Well, let them stare. You don't. I'm glad that it doesn't make any difference to you. . . .
 
 No, I haven't seen her for two weeks. But I speak to her on the phone every day, sometimes twice a
 day. . . . Yes, I know how she feels: she loves it. What is it we hear over the telephone—sound
@@ -22,19 +22,22 @@ Because it's going so well . . . Only . . . that Rearden Metal rail will be the 
 what will be the use, if we don't have any engines powerful enough to take advantage of it?
 Look at the kind of patched coal-burners we've got left—they can barely manage to drag themselves
 fast enough for old trolley-car rails. . . .
+
 Still, there's hope. The United Locomotive Works went bankrupt. That's the best break we've had in the
 last few weeks, because their plant has been bought by Dwight Sanders. He's a brilliant young engineer
 who's got the only good aircraft plant in the country. He had to sell the aircraft plant to his brother, in
 order to take over United Locomotive.
+
 That's on account of the Equalization of Opportunity Bill. Sure, it's just a setup between them, but can
 you blame him? Anyway, we'll see Diesels coming out of the United Locomotive Works now. Dwight
 Sanders will start things going. . . . Yes, she's counting on him. Why do you ask that? . . . Yes, he's
 crucially important to us right now. We've just signed a contract with him, for the first ten Diesel engines
 he'll build. When I phoned her that the contract was signed, she laughed and said, "You see? Is there
-ever any reason to be afraid?' . . . She said that, because she knows—I've never told her, but she
+ever any reason to be afraid?" . . . She said that, because she knows—I've never told her, but she
 knows—that I'm afraid. . . . Yes, I am. . . . I don't know . . . I wouldn't be afraid if I knew of what, I
 could do something about it. But this . . . Tell me, don't you really despise me for being Operating
 Vice-President? . . .
+
 But don't you see that it's vicious? . . . What honor? I don't know what it is that I really am: a clown, a
 ghost, an understudy or just a rotten stooge. When I sit in her office, in her chair, at her desk, I feel
 worse than that: I feel like a murderer. . . . Sure, I know that I'm supposed to be a stooge for her—and
@@ -43,8 +46,10 @@ stooge for Jim Taggart. Why should it be necessary for her to have a stooge? Why
 hide? Why did they throw her out of the building? Do you know that she had to move out into a dinky
 hole in the back alley, across from our Express and Baggage Entrance? You ought to take a look at it
 some time, that's the office of John Galt, Inc.
+
 Yet everybody knows that it's she who's still running Taggart Transcontinental. Why does she have to
 hide the magnificent job she's doing?
+
 Why are they giving her no credit? Why are they robbing her of her achievement—with me as the
 receiver of stolen goods? Why are they doing everything in their power to make it impossible for her to
 succeed, when she's all they've got standing between them and destruction? Why are they torturing her in
@@ -58,8 +63,6 @@ unexpectedly—I was in my office, in her office—and suddenly the door opened 
 came in, saying, 'Mr. Willers, I'm looking for a job as a station operator, would you give me a chance?' I
 wanted to damn them all, but I had to laugh, I was so glad to see her and she was laughing so happily.
 
-
-
 She had come straight from the airport—she wore slacks and a flying jacket—she looked
 wonderful—she'd got windburned, it looked like a suntan, just as if she'd returned from a vacation. She
 made me remain where I was, in her chair, and she sat on the desk and talked about the new bridge of
@@ -67,57 +70,71 @@ the John Galt Line. . . . No. No, I never asked her why she chose that name. . .
 means to her. A sort of challenge, I guess . . . I don't know to whom . . . Oh, it doesn't matter, it doesn't
 mean a thing, there isn't any John Galt, but I wish she hadn't used it. I don't like it, do you? . . . You do?
 You don't sound very happy saying it."
+
 The windows of the offices of the John Galt Line faced a dark alley.
+
 Looking up from her desk, Dagny could not see the sky, only the wall of a building rising past her range
 of vision. It was the side wall of the great skyscraper of Taggart Transcontinental.
+
 Her new headquarters were two rooms on the ground floor of a half collapsed structure. The structure
 still stood, but its upper stories were boarded off as unsafe for occupancy. Such tenants as it sheltered
 were half-bankrupt, existing, as it did, on the inertia of the momentum of the past.
+
 She liked her new place: it saved money. The rooms contained no superfluous furniture or people. The
 furniture had come from junk shops. The people were the choice best she could find. On her rare visits to
 New York, she had no time to notice the room where she worked; she noticed only that it served its
 purpose.
+
 She did not know what made her stop tonight and look at the thin streaks of rain on the glass of the
 window, at the wall of the building across the alley.
+
 It was past midnight. Her small staff had gone. She was due at the airport at three A.M., to fly her plane
 back to Colorado. She had little left to do, only a few of Eddie's reports to read. With the sudden break
 of the tension of hurrying, she stopped, unable to go on. The reports seemed to require an effort beyond
 her power. It was too late to go home and sleep, too early to go to the airport. She thought: You're
 tired—and watched her own mood with severe, contemptuous detachment, knowing that it would pass.
+
 She had flown to New York unexpectedly, at a moment's notice, leaping to the controls of her plane
 within twenty minutes after hearing a brief item in a news broadcast. The radio voice had said that Dwight
 Sanders had retired from business, suddenly, without reason or explanation. She had hurried to New
 York, hoping to find him and stop him.
+
 But she had felt, while flying across the continent, that there would be no trace of him to find.
+
 The spring rain hung motionless in the air beyond the window, like a thin mist. She sat, looking across at
 the open cavern of the Express and Baggage Entrance of the Taggart Terminal. There were naked lights
 inside, among the steel girders of the ceiling, and a few piles of luggage on the worn concrete of the floor.
 The place looked abandoned and dead.
+
 She glanced at a jagged crack on the wall of her office. She heard no sound. She knew she was alone in
 the ruins of a building. It seemed as if she were alone in the city. She felt an emotion held back for years:
 a loneliness much beyond this moment, beyond the silence of the room and the wet, glistening emptiness
 of the street; the loneliness of a gray wasteland where nothing was worth reaching; the loneliness of her
 childhood.
+
 She rose and walked to the window. By pressing her face to the pane, she could see the whole of the
 Taggart Building, its lines converging abruptly to its distant pinnacle in the sky. She looked up at the dark
-
-
-
 window of the room that had been her office. She felt as if she were in exile, never to return, as if she
 were separated from the building by much more than a sheet of glass, a curtain of rain and the span of a
 few months.
+
 She stood, in a room of crumbling plaster, pressed to the windowpane, looking up at the unattainable
 form of everything she loved. She did not know the nature of her loneliness. The only words that named it
 were: This is not the world I expected.
+
 Once, when she was sixteen, looking at a long stretch of Taggart track, at the rails that converged—like
 the lines of a skyscraper—to a single point in the distance, she had told Eddie Willers that she had always
 felt as if the rails were held in the hand of a man beyond the horizon—no, not her father or any of the men
 in the office—and some day she would meet him.
+
 She shook her head and turned away from the window.
+
 She went back to her desk. She tried to reach for the reports. But suddenly she was slumped across the
 desk, her head on her arm. Don't, she thought; but she did not move to rise, it made no difference, there
 was no one to see her.
+
 This was a longing she had never permitted herself to acknowledge.
+
 She faced it now. She thought: If emotion is one's response to the things the world has to offer, if she
 loved the rails, the building, and more: if she loved her love for them—there was still one response, the
 greatest, that she had missed. She thought: To find a feeling that would hold, as their sum, as their final
@@ -127,98 +144,125 @@ Hank Rearden, not any man she had ever met or admired . . . A man who existed on
 of her capacity for an emotion she had never felt, but would have given her life to experience . . . She
 twisted herself in a slow, faint movement, her breasts pressed to the desk; she felt the longing in her
 muscles, in the nerves of her body.
+
 Is that what you want? Is it as simple as that?—she thought, but knew that it was not simple. There was
 some unbreakable link between her love for her work and the desire of her body; as if one gave her the
 right to the other, the right and the meaning; as if one were the completion of the other—and the desire
 would never be satisfied, except by a being of equal greatness.
+
 Her face pressed to her arm, she moved her head, shaking it slowly hi negation. She would never find it.
 Her own thought of what life could be like, was all she would ever have of the world she had wanted.
 Only the thought of it—and a few rare moments, like a few lights reflected from it on her way—to know,
 to hold, to follow to the end . . .
+
 She raised her head.
+
 On the pavement of the alley, outside her window, she saw the shadow of a man who stood at the door
 of her office.
+
 The door was some steps away; she could not see him, or the street light beyond, only his shadow on
 the stones of the pavement. He stood perfectly still.
+
 He was so close to the door, like a man about to enter, that she waited to hear him knock. Instead, she
 saw the shadow jerk abruptly, as if he were jolted backward, then he turned and walked away. There
-
-
-
 was only the outline of his hat brim and shoulders left on the ground, when he stopped. The shadow lay
 still for a moment, wavered, and grew longer again as he came back.
+
 She felt no fear. She sat at her desk, motionless, watching in blank wonder. He stopped at the door,
 then backed away from it; he stood somewhere in the middle of the alley, then paced restlessly and
 stopped again. His shadow swung like an irregular pendulum across the pavement, describing the course
 of a soundless battle: it was a man fighting himself to enter that door or to escape.
+
 She looked on, with peculiar detachment. She had no power to react, only to observe. She wondered
 numbly, distantly: Who was he? Had he been watching her from somewhere in the darkness? Had he
 seen her slumped across her desk, in the lighted, naked window? Had he watched her desolate loneliness
 as she was now watching his? She felt nothing.
+
 They were alone in the silence of a dead city—it seemed to her that he was miles away, a reflection of
 suffering without identity, a fellow survivor whose problem was as distant to her as hers would be to him.
 He paced, moving out of her sight, coming back again. She sat, watching—on the glistening pavement of
 a dark alley—the shadow of an unknown torment.
+
 The shadow moved away once more. She waited. It did not return.
+
 Then she leaped to her feet. She had wanted to see the outcome of the battle; now that he had won
 it—or lost—she was struck by the sudden, urgent need to know his identity and motive. She ran through
 the dark anteroom, she threw the door open and looked out.
+
 The alley was empty. The pavement went tapering off into the distance, like a band of wet mirror under
 a few spaced lights. There was no one in sight. She saw the dark hole of a broken window in an
 abandoned shop. Beyond it, there were the doors of a few rooming houses. Across the alley, streaks of
 rain glittered under a light that hung over the black gap of an open door leading down to the underground
 tunnels of Taggart Transcontinental.
+
 Rearden signed the papers, pushed them across the desk and looked away, thinking that he would never
 have to think of them again, wishing he were carried to the time when this moment would be far behind
 him.
+
 Paul Larkin reached for the papers hesitantly; he looked ingratiatingly helpless, "It's only a legal
 technicality, Hank," he said. "You know that I'll always consider these ore mines as yours."
 Rearden shook his head slowly; it was just a movement of his neck muscles; his face looked immovable,
 as if he were speaking to a stranger.
+
 "No!" he said. "Either I own a property or I don't."
+
 "But . . . but you know that you can trust me. You don't have to worry about your supply of ore. We've
 made an agreement. You know that you can count on me."
+
 "I don't know it. I hope I can."
+
 "But I've given you my word."
 
-
-
 "I have never been at the mercy of anyone's word before."
+
 "Why . . . why do you say that? We're friends. I'll do anything you wish. You'll get my entire output. The
 mines are still yours—just as good as yours. You have nothing to fear. I'll . . . Hank, what's the matter?"
+
 "Don't talk."
+
 "But . . . but what's the matter?"
+
 "I don't like assurances. I don't want any pretense about how safe I am. I'm not. We have made an
 agreement which I can't enforce. I want you to know that I understand my position fully. If you intend to
 keep your word, don't talk about it, just do it."
+
 "Why do you look at me as if it were my fault? You know how badly I feel about it. I bought the mines
 only because I thought it would help you out—I mean, I thought you'd rather sell them to a friend than to
 some total stranger. It's not my fault. I don't like that miserable Equalization Bill, I don't know who's
 behind it, I never dreamed they'd pass it, it was such a shock to me when they—"
+
 "Never mind."
+
 "But I only—"
+
 "Why do you insist on talking about it?"
+
 "I . . ." Larkin's voice was pleading. "I gave you the best price, Hank. The law said 'reasonable
 compensation.' My bid was higher than anyone else's."
+
 Rearden looked at the papers still lying across the desk. He thought of the payment these papers gave
 him for his ore mines. Two-thirds of the sum was money which Larkin had obtained as a loan from the
 government; the new law made provisions for such loans "in order to give a fair opportunity to the new
 owners who have never had a chance."
+
 Two-thirds of the rest was a loan he himself had granted to Larkin, a mortgage he had accepted on his
 own mines. . . . And the government money, he thought suddenly, the money now given to him as
 payment for his property, where had that come from? Whose work had provided it?
-"'You don't have to worry, Hank," said Larkin, with that incomprehensible, insistent note of pleading in
+
+"You don't have to worry, Hank," said Larkin, with that incomprehensible, insistent note of pleading in
 his voice. "It's just a paper formality."
+
 Rearden wondered dimly what it was that Larkin wanted from him.
+
 He felt that the man was waiting for something beyond the physical fact of the sale, some words which
 he, Rearden, was supposed to pronounce, some action pertaining to mercy which he was expected to
 grant. Larkin's eyes, in this moment of his best fortune, had the sickening look of a beggar.
+
 "Why should you be angry, Hank? It's only a new form of legal red tape. Just a new historical condition.
 Nobody can help it, if it's, a historical condition. Nobody can be blamed for it. But there's always a way
 to get along. Look at all the others. They don't mind. They're—"
+
 "They're setting up stooges whom they control, to run the properties extorted from them. I—"
-
-
 
 "Now why do you want to use such words?"
 "I might as well tell you—and I think you know it—that I am not good at games of that kind. I have
@@ -1257,16 +1301,16 @@ and turned out the light. He approached. He turned the light on again, with a si
 his wrist.
 She saw him smile for the first time, a slow, mocking, sensual smile that stressed the purpose of his
 action.
+
 He was holding her half-stretched across the bed, he was tearing her clothes off. while her face was
 pressed against him, her mouth, moving down the line of his neck, down his shoulder. She knew that
 every gesture of her desire for him struck him like a blow, that there was some shudder of incredulous
 anger within him—yet that no gesture would satisfy his greed for every evidence of her desire.
 
-
-
 He stood looking down at her naked body, he leaned over, she heard his voice—it was more a
 statement of contemptuous triumph than a question: "You want it?" Her answer was more a gasp than a
 word, her eyes closed, her mouth open: "Yes."
+
 She knew that what she felt with the skin of her arms was the cloth of his shirt, she knew that the lips she
 felt on her mouth were his, but in the rest of her there was no distinction between his being and her own,
 as there was no division between body and spirit. Through all the steps of the years behind them, the
